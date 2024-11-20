@@ -1,0 +1,11 @@
+{
+    "name": "Emailbuilder",
+    "alias": "emailbuilder",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Emailbuilder\\App\\Providers\\EmailbuilderServiceProvider"
+    ],
+    "files": []
+}
